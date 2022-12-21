@@ -1,0 +1,20 @@
+body{background-color: gray;}
+
+.container{
+
+    border: 2px solid black;
+    width: 50%;
+    height: 70%;
+    margin-left: 30%;
+}
+h1{
+    text-align: center;
+}
+.prompt{
+    align-items: center;
+    margin: 40px;
+}
+.tasklist{
+    display: flex;
+    margin: 40px;
+}
